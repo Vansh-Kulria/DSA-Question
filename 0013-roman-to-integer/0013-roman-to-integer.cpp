@@ -1,36 +1,20 @@
 class Solution {
 public:
     int romanToInt(string s) {
-        unordered_map<string, int> mp = {
-            {"I",1}, {"IV",4}, {"V",5}, {"IX",9},
-            {"X",10}, {"XL",40}, {"L",50}, {"XC",90},
-            {"C",100}, {"CD",400}, {"D",500},
-            {"CM",900}, {"M",1000}
-        };
+        unordered_map<char, int> mp = {{'I', 1},   {'V', 5},   {'X', 10},
+                                       {'L', 50},  {'C', 100}, {'D', 500},
+                                       {'M', 1000}};
 
         int ans = 0;
 
-        for (int i = s.length() - 1; i >= 0; ) {
-            string curr(1, s[i]);
+        for (int i = 0; i < s.size(); i++) {
 
-            if (i > 0) {
-                string prev(1, s[i - 1]);
-
-                if (mp[curr] > mp[prev]) {
-                    string combined;
-                    combined.push_back(s[i - 1]);
-                    combined.push_back(s[i]);
-
-                    ans += mp[combined];
-                    i -= 2;
-                    continue;
-                }
+            if (i + 1 < s.size() && mp[s[i]] < mp[s[i + 1]]) {
+                ans -= mp[s[i]];
+            } else {
+                ans += mp[s[i]];
             }
-
-            ans += mp[curr];
-            i--;
         }
-
         return ans;
     }
 };
