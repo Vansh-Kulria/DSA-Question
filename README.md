@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0056-merge-intervals) |
+| [0526-beautiful-arrangement](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0526-beautiful-arrangement) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Vansh-Kulria/DSA-Question/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Sorting
 |  |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0051-n-queens) |
+| [0526-beautiful-arrangement](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0526-beautiful-arrangement) |
 ## Hash Table
 |  |
 | ------- |
@@ -87,4 +89,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Vansh-Kulria/DSA-Question/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0526-beautiful-arrangement](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0526-beautiful-arrangement) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0526-beautiful-arrangement](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0526-beautiful-arrangement) |
+## Bitmask
+|  |
+| ------- |
+| [0526-beautiful-arrangement](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0526-beautiful-arrangement) |
 <!---LeetCode Topics End-->
