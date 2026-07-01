@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0520-detect-capital) |
 | [0680-valid-palindrome-ii](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0680-valid-palindrome-ii) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Vansh-Kulria/DSA-Question/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/Vansh-Kulria/DSA-Question/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## Trie
 |  |
 | ------- |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Vansh-Kulria/DSA-Question/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1655-distribute-repeating-integers](https://github.com/Vansh-Kulria/DSA-Question/tree/master/1655-distribute-repeating-integers) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/Vansh-Kulria/DSA-Question/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Vansh-Kulria/DSA-Question/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Matrix
 |  |
