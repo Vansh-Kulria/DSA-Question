@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0053-maximum-subarray) |
 | [0526-beautiful-arrangement](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0526-beautiful-arrangement) |
+| [1155-number-of-dice-rolls-with-target-sum](https://github.com/Vansh-Kulria/DSA-Question/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 | [1655-distribute-repeating-integers](https://github.com/Vansh-Kulria/DSA-Question/tree/master/1655-distribute-repeating-integers) |
 ## Bit Manipulation
 |  |
