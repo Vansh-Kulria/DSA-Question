@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-build-an-array-with-stack-operations](https://github.com/Vansh-Kulria/DSA-Question/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/Vansh-Kulria/DSA-Question/tree/master/1470-shuffle-the-array) |
 | [1655-distribute-repeating-integers](https://github.com/Vansh-Kulria/DSA-Question/tree/master/1655-distribute-repeating-integers) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Vansh-Kulria/DSA-Question/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Vansh-Kulria/DSA-Question/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3975-filter-occupied-intervals](https://github.com/Vansh-Kulria/DSA-Question/tree/master/3975-filter-occupied-intervals) |
 ## Sorting
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0013-roman-to-integer) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0273-integer-to-english-words](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0273-integer-to-english-words) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Vansh-Kulria/DSA-Question/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Divide and Conquer
 |  |
 | ------- |
