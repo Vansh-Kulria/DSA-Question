@@ -8,18 +8,46 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
+
 class Solution {
 public:
     ListNode* mergeTwoLists(ListNode* list1, ListNode* list2) {
+        // If one list is empty
         if (!list1) return list2;
         if (!list2) return list1;
 
+        ListNode* head;
+        ListNode* tail;
+
+        // Decide the first node
         if (list1->val <= list2->val) {
-            list1->next = mergeTwoLists(list1->next, list2);
-            return list1;
+            head = list1;
+            list1 = list1->next;
         } else {
-            list2->next = mergeTwoLists(list1, list2->next);
-            return list2;
+            head = list2;
+            list2 = list2->next;
         }
+
+        tail = head;
+
+        // Merge remaining nodes
+        while (list1 && list2) {
+            if (list1->val <= list2->val) {
+                tail->next = list1;
+                list1 = list1->next;
+            } else {
+                tail->next = list2;
+                list2 = list2->next;
+            }
+            tail = tail->next;
+        }
+
+        // Attach the remaining list
+        if (list1)
+            tail->next = list1;
+        else
+            tail->next = list2;
+
+        return head;
     }
 };
