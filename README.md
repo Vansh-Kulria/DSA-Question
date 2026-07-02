@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0031-next-permutation) |
 | [0141-linked-list-cycle](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0142-linked-list-cycle-ii) |
 | [0680-valid-palindrome-ii](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0680-valid-palindrome-ii) |
 ## Greedy
 |  |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0037-sudoku-solver) |
 | [0141-linked-list-cycle](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0142-linked-list-cycle-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Vansh-Kulria/DSA-Question/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0025-reverse-nodes-in-k-group) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0142-linked-list-cycle-ii) |
 ## Recursion
 |  |
 | ------- |
