@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0015-3sum) |
 | [0047-permutations-ii](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0056-merge-intervals) |
+| [0148-sort-list](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0148-sort-list) |
 | [0645-set-mismatch](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Vansh-Kulria/DSA-Question/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3975-filter-occupied-intervals](https://github.com/Vansh-Kulria/DSA-Question/tree/master/3975-filter-occupied-intervals) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0031-next-permutation) |
 | [0141-linked-list-cycle](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0148-sort-list) |
 | [0680-valid-palindrome-ii](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0680-valid-palindrome-ii) |
 ## Greedy
 |  |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0148-sort-list) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Vansh-Kulria/DSA-Question/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Segment Tree
 |  |
@@ -131,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0148-sort-list) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Vansh-Kulria/DSA-Question/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Counting
 |  |
@@ -168,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0148-sort-list) |
 ## Recursion
 |  |
 | ------- |
