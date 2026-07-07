@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0160-intersection-of-two-linked-lists) |
+| [0234-palindrome-linked-list](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0234-palindrome-linked-list) |
 | [0680-valid-palindrome-ii](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0876-middle-of-the-linked-list) |
 ## Greedy
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0234-palindrome-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0044-wildcard-matching) |
 | [0206-reverse-linked-list](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0234-palindrome-linked-list) |
 | [0273-integer-to-english-words](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0273-integer-to-english-words) |
 ## Binary Search
 |  |
@@ -200,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0234-palindrome-linked-list](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0234-palindrome-linked-list) |
 | [0636-exclusive-time-of-functions](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0636-exclusive-time-of-functions) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Vansh-Kulria/DSA-Question/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Vansh-Kulria/DSA-Question/tree/master/1441-build-an-array-with-stack-operations) |
