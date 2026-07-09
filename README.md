@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0013-roman-to-integer) |
+| [0070-climbing-stairs](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0273-integer-to-english-words](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0273-integer-to-english-words) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Vansh-Kulria/DSA-Question/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0070-climbing-stairs) |
 | [0526-beautiful-arrangement](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0526-beautiful-arrangement) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/Vansh-Kulria/DSA-Question/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 | [1655-distribute-repeating-integers](https://github.com/Vansh-Kulria/DSA-Question/tree/master/1655-distribute-repeating-integers) |
@@ -224,4 +226,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
