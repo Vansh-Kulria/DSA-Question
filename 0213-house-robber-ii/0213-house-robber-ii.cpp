@@ -3,12 +3,12 @@ public:
 
     // house robber I space optimize solution 
 
-    int robI(vector<int>& nums) {
+    int robI(vector<int>& nums, int start, int end) {
         int n = nums.size();
-        int prev = nums[0];
+        int prev = 0;
         int prev2 = 0;
 
-        for(int i = 1; i < n; i++){
+        for(int i = start; i <= end; i++){
             int take = nums[i];
             if(i > 1){
                 take+=prev2;
@@ -28,11 +28,11 @@ public:
         if(n == 1){
             return nums[0];
         }
-        vector<int> temp1, temp2;
-        for (int i = 0; i < n; i++){
-            if(i != 0) temp1.push_back(nums[i]);
-            if(i != n-1) temp2.push_back(nums[i]);
-        }
-        return max(robI(temp1), robI(temp2));
+        int case1 = robI(nums, 0, n-2);
+        int case2 = robI(nums, 1, n-1);
+        return max(case1, case2);
     }
 };
+
+
+
