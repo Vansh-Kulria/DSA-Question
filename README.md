@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0526-beautiful-arrangement](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0526-beautiful-arrangement) |
 | [0636-exclusive-time-of-functions](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0636-exclusive-time-of-functions) |
 | [0645-set-mismatch](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0645-set-mismatch) |
+| [0746-min-cost-climbing-stairs](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0746-min-cost-climbing-stairs) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Vansh-Kulria/DSA-Question/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Vansh-Kulria/DSA-Question/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/Vansh-Kulria/DSA-Question/tree/master/1470-shuffle-the-array) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0213-house-robber-ii) |
 | [0509-fibonacci-number](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0509-fibonacci-number) |
 | [0526-beautiful-arrangement](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0526-beautiful-arrangement) |
+| [0746-min-cost-climbing-stairs](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0746-min-cost-climbing-stairs) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/Vansh-Kulria/DSA-Question/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 | [1655-distribute-repeating-integers](https://github.com/Vansh-Kulria/DSA-Question/tree/master/1655-distribute-repeating-integers) |
 ## Bit Manipulation
