@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0013-roman-to-integer) |
+| [0062-unique-paths](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0273-integer-to-english-words](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0273-integer-to-english-words) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0005-longest-palindromic-substring) |
 | [0044-wildcard-matching](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0213-house-robber-ii) |
@@ -249,4 +251,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0003-longest-substring-without-repeating-characters) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
