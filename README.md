@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0485-max-consecutive-ones) |
 | [0526-beautiful-arrangement](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0526-beautiful-arrangement) |
+| [0560-subarray-sum-equals-k](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0560-subarray-sum-equals-k) |
 | [0636-exclusive-time-of-functions](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0636-exclusive-time-of-functions) |
 | [0645-set-mismatch](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0645-set-mismatch) |
 | [0746-min-cost-climbing-stairs](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0746-min-cost-climbing-stairs) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0160-intersection-of-two-linked-lists) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Vansh-Kulria/DSA-Question/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1655-distribute-repeating-integers](https://github.com/Vansh-Kulria/DSA-Question/tree/master/1655-distribute-repeating-integers) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0560-subarray-sum-equals-k) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Vansh-Kulria/DSA-Question/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Dynamic Programming
 |  |
