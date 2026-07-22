@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0044-wildcard-matching](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0044-wildcard-matching) |
 | [0273-integer-to-english-words](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0273-integer-to-english-words) |
+| [0516-longest-palindromic-subsequence](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0516-longest-palindromic-subsequence) |
 | [0520-detect-capital](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0520-detect-capital) |
 | [0680-valid-palindrome-ii](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0680-valid-palindrome-ii) |
 | [1143-longest-common-subsequence](https://github.com/Vansh-Kulria/DSA-Question/tree/master/1143-longest-common-subsequence) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0509-fibonacci-number) |
+| [0516-longest-palindromic-subsequence](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0518-coin-change-ii) |
 | [0526-beautiful-arrangement](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0526-beautiful-arrangement) |
 | [0746-min-cost-climbing-stairs](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0746-min-cost-climbing-stairs) |
