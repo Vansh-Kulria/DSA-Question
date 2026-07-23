@@ -1,32 +1,24 @@
 class Solution {
 public:
-    int longestCommonSubsequence(string text1, string text2) {
+    int minInsertions(string s) {
 
-        int n = text1.size();
-        int m = text2.size();
+        int n = s.size();
 
-        vector<vector<int>> dp(n + 1, vector<int>(m + 1, 0));
+        vector<vector<int>> dp(n, vector<int>(n, 0));
 
-        for (int i = 1; i <= n; i++) {
-            for (int j = 1; j <= m; j++) {
+        for (int i = n - 1; i >= 0; i--) {
 
-                if (text1[i - 1] == text2[j - 1])
-                    dp[i][j] = 1 + dp[i - 1][j - 1];
-                else
-                    dp[i][j] = max(dp[i - 1][j], dp[i][j - 1]);
+            for (int j = i + 1; j < n; j++) {
+
+                if (s[i] == s[j]) {
+                    dp[i][j] = dp[i + 1][j - 1];
+                }
+                else {
+                    dp[i][j] = 1 + min(dp[i + 1][j], dp[i][j - 1]);
+                }
             }
         }
 
-        return dp[n][m];
-    }
-
-    int minInsertions(string s) {
-
-        string rev = s;
-        reverse(rev.begin(), rev.end());
-
-        int lps = longestCommonSubsequence(s, rev);
-
-        return s.size() - lps;
+        return dp[0][n - 1];
     }
 };
