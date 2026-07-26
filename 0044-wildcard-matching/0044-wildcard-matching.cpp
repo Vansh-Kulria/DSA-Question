@@ -45,7 +45,56 @@
 //     }
 // };
 
+// **************************
+// tabulation
+// **************************
 
+// class Solution {
+// public:
+//     bool isMatch(string s, string p) {
+
+//         int n = s.size();
+//         int m = p.size();
+
+//         vector<vector<bool>> dp(n + 1, vector<bool>(m + 1, false));
+
+//         dp[0][0] = true;
+
+//         // Empty string vs pattern
+//         for (int j = 1; j <= m; j++) {
+
+//             bool flag = true;
+
+//             for (int k = 1; k <= j; k++) {
+//                 if (p[k - 1] != '*') {
+//                     flag = false;
+//                     break;
+//                 }
+//             }
+
+//             dp[0][j] = flag;
+//         }
+
+//         for (int i = 1; i <= n; i++) {
+
+//             for (int j = 1; j <= m; j++) {
+
+//                 if (s[i - 1] == p[j - 1] || p[j - 1] == '?')
+//                     dp[i][j] = dp[i - 1][j - 1];
+
+//                 else if (p[j - 1] == '*')
+//                     dp[i][j] = dp[i][j - 1] || dp[i - 1][j];
+
+//                 else
+//                     dp[i][j] = false;
+//             }
+//         }
+
+//         return dp[n][m];
+//     }
+// };
+
+// space optimization
 
 class Solution {
 public:
@@ -54,11 +103,13 @@ public:
         int n = s.size();
         int m = p.size();
 
-        vector<vector<bool>> dp(n + 1, vector<bool>(m + 1, false));
+        vector<bool> prev(m + 1, false);
+        vector<bool> curr(m + 1, false);
 
-        dp[0][0] = true;
+        // Empty string matches empty pattern
+        prev[0] = true;
 
-        // Empty string vs pattern
+        // dp[0][j]
         for (int j = 1; j <= m; j++) {
 
             bool flag = true;
@@ -70,24 +121,32 @@ public:
                 }
             }
 
-            dp[0][j] = flag;
+            prev[j] = flag;
         }
 
         for (int i = 1; i <= n; i++) {
 
+            curr[0] = false; // Non-empty string cannot match empty pattern
+
             for (int j = 1; j <= m; j++) {
 
-                if (s[i - 1] == p[j - 1] || p[j - 1] == '?')
-                    dp[i][j] = dp[i - 1][j - 1];
+                if (s[i - 1] == p[j - 1] || p[j - 1] == '?') {
 
-                else if (p[j - 1] == '*')
-                    dp[i][j] = dp[i][j - 1] || dp[i - 1][j];
+                    curr[j] = prev[j - 1];
 
-                else
-                    dp[i][j] = false;
+                } else if (p[j - 1] == '*') {
+
+                    curr[j] = curr[j - 1] || prev[j];
+
+                } else {
+
+                    curr[j] = false;
+                }
             }
+
+            prev = curr;
         }
 
-        return dp[n][m];
+        return prev[m];
     }
 };
