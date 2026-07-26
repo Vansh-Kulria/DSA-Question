@@ -28,51 +28,52 @@
 
 
 
-class Solution {
-public:
-    int maxProfit(vector<int>& prices) {
-
-        int n = prices.size();
-
-        vector<vector<int>> dp(n + 2, vector<int>(2, 0));
-
-        for (int ind = n - 1; ind >= 0; ind--) {
-
-            // buy = 1
-            dp[ind][1] = max(-prices[ind] + dp[ind + 1][0],
-                              dp[ind + 1][1]);
-
-            // buy = 0
-            dp[ind][0] = max(prices[ind] + dp[ind + 2][1],
-                              dp[ind + 1][0]);
-        }
-
-        return dp[0][1];
-    }
-};
-
-
-
-
 // class Solution {
 // public:
 //     int maxProfit(vector<int>& prices) {
 
 //         int n = prices.size();
 
-//         vector<int> ahead(2, 0), curr(2, 0);
+//         vector<vector<int>> dp(n + 2, vector<int>(2, 0));
 
 //         for (int ind = n - 1; ind >= 0; ind--) {
 
-//             curr[1] = max(-prices[ind] + ahead[0],
-//                           ahead[1]);
+//             // buy = 1
+//             dp[ind][1] = max(-prices[ind] + dp[ind + 1][0],
+//                               dp[ind + 1][1]);
 
-//             curr[0] = max(prices[ind] + ahead[1],
-//                           ahead[0]);
-
-//             ahead = curr;
+//             // buy = 0
+//             dp[ind][0] = max(prices[ind] + dp[ind + 2][1],
+//                               dp[ind + 1][0]);
 //         }
 
-//         return ahead[1];
+//         return dp[0][1];
 //     }
 // };
+
+
+
+
+class Solution {
+public:
+    int maxProfit(vector<int>& prices) {
+
+        int n = prices.size();
+
+        vector<int> ahead(2, 0), curr(2, 0), after(2,0);
+
+        for (int ind = n - 1; ind >= 0; ind--) {
+
+            curr[1] = max(-prices[ind] + ahead[0],
+                          ahead[1]);
+
+            curr[0] = max(prices[ind] + after[1],
+                          ahead[0]);
+
+            after = ahead;
+            ahead = curr;
+        }
+
+        return ahead[1];
+    }
+};
