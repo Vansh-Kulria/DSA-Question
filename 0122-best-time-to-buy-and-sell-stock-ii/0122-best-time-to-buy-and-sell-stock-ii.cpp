@@ -28,25 +28,51 @@
 
 
 
+// class Solution {
+// public:
+//     int maxProfit(vector<int>& prices) {
+
+//         int n = prices.size();
+
+//         vector<vector<int>> dp(n + 1, vector<int>(2, 0));
+
+//         for (int ind = n - 1; ind >= 0; ind--) {
+
+//             // buy = 1
+//             dp[ind][1] = max(-prices[ind] + dp[ind + 1][0],
+//                               dp[ind + 1][1]);
+
+//             // buy = 0
+//             dp[ind][0] = max(prices[ind] + dp[ind + 1][1],
+//                               dp[ind + 1][0]);
+//         }
+
+//         return dp[0][1];
+//     }
+// };
+
+
+
+
 class Solution {
 public:
     int maxProfit(vector<int>& prices) {
 
         int n = prices.size();
 
-        vector<vector<int>> dp(n + 1, vector<int>(2, 0));
+        vector<int> ahead(2, 0), curr(2, 0);
 
         for (int ind = n - 1; ind >= 0; ind--) {
 
-            // buy = 1
-            dp[ind][1] = max(-prices[ind] + dp[ind + 1][0],
-                              dp[ind + 1][1]);
+            curr[1] = max(-prices[ind] + ahead[0],
+                          ahead[1]);
 
-            // buy = 0
-            dp[ind][0] = max(prices[ind] + dp[ind + 1][1],
-                              dp[ind + 1][0]);
+            curr[0] = max(prices[ind] + ahead[1],
+                          ahead[0]);
+
+            ahead = curr;
         }
 
-        return dp[0][1];
+        return ahead[1];
     }
 };
