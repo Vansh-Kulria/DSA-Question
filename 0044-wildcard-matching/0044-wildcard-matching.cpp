@@ -1,37 +1,46 @@
 class Solution {
 public:
-    vector<vector<int>> dp;
 
-    bool helper(string &s , string &p, int i, int j){
-        // base case
-        if(i == s.length() && j == p.length()) return true;
+    bool f(string &s,string &p,int i,int j,
+           vector<vector<int>>&dp){
 
-        if(j == p.length()) return false;
+        if(i<0 && j<0)
+            return true;
 
-        if(dp[i][j] != -1) return dp[i][j];
+        if(j<0)
+            return false;
 
-        if(i == s.length()){
-            for (int k = j; k < p.length(); k++){
-                if(p[k] != '*') return dp[i][j] = false;
-            }
-            return dp[i][j] = true;
+        if(i<0){
+
+            for(int k=0;k<=j;k++)
+                if(p[k]!='*')
+                    return false;
+
+            return true;
         }
 
-        if((s[i] == p[j]) || (p[j] == '?')){
-            return dp[i][j] = helper(s, p , i+1, j+1);
-        }
+        if(dp[i][j]!=-1)
+            return dp[i][j];
 
-        if(p[j] == '*'){
-            return dp[i][j] =
-                helper(s,p,i,j+1) ||   // empty
-                helper(s,p,i+1,j);     // consume
-        }
+        if(s[i]==p[j] || p[j]=='?')
+            return dp[i][j]=f(s,p,i-1,j-1,dp);
 
-        return dp[i][j] = false;
+        if(p[j]=='*')
+            return dp[i][j]=
+                   f(s,p,i,j-1,dp) ||
+                   f(s,p,i-1,j,dp);
+
+        return dp[i][j]=false;
     }
 
     bool isMatch(string s, string p) {
-        dp.assign(s.size()+1, vector<int>(p.size()+1, -1));
-        return helper(s,p,0,0);
+
+        int n=s.size();
+        int m=p.size();
+
+        vector<vector<int>> dp(n,
+                vector<int>(m,-1));
+
+        return f(s,p,n-1,m-1,dp);
     }
 };
