@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0064-minimum-path-sum) |
+| [0088-merge-sorted-array](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0088-merge-sorted-array) |
 | [0120-triangle](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0015-3sum) |
 | [0047-permutations-ii](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0148-sort-list) |
 | [0645-set-mismatch](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0645-set-mismatch) |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0031-next-permutation) |
+| [0088-merge-sorted-array](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0148-sort-list) |
