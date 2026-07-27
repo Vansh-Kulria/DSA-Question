@@ -1,24 +1,45 @@
+// class Solution {
+// public:
+//     int f(int ind, int prev, vector<int>& nums, vector<vector<int>>& dp) {
+//         if (ind == nums.size())
+//             return 0;
+
+//         if (dp[ind][prev + 1] != -1)
+//             return dp[ind][prev + 1];
+
+//         int notTake = f(ind + 1, prev, nums, dp);
+
+//         int take = 0;
+//         if (prev == -1 || nums[ind] > nums[prev])
+//             take = 1 + f(ind + 1, ind, nums, dp);
+
+//         return dp[ind][prev + 1] = max(take, notTake);
+//     }
+
+//     int lengthOfLIS(vector<int>& nums) {
+//         int n = nums.size();
+//         vector<vector<int>> dp(n, vector<int>(n + 1, -1));
+//         return f(0, -1, nums, dp);
+//     }
+// };
+
+
 class Solution {
 public:
-    int f(int ind, int prev, vector<int>& nums, vector<vector<int>>& dp) {
-        if (ind == nums.size())
-            return 0;
+int lengthOfLIS(vector<int>& nums) {
+    int n = nums.size();
+    vector<vector<int>> dp(n+1, vector<int>(n + 1, 0));
 
-        if (dp[ind][prev + 1] != -1)
-            return dp[ind][prev + 1];
+    for (int ind = n - 1; ind >= 0; ind--) {
+        for (int prev = ind - 1; prev >= -1; prev--) {
+            int notTake = dp[ind + 1][prev+1];
 
-        int notTake = f(ind + 1, prev, nums, dp);
+            int take = 0;
+            if (prev == -1 || nums[ind] > nums[prev])
+                take = 1 + dp[ind + 1][ind+1];
 
-        int take = 0;
-        if (prev == -1 || nums[ind] > nums[prev])
-            take = 1 + f(ind + 1, ind, nums, dp);
-
-        return dp[ind][prev + 1] = max(take, notTake);
+                       dp[ind][prev + 1] = max(take, notTake);
+        }
     }
-
-    int lengthOfLIS(vector<int>& nums) {
-        int n = nums.size();
-        vector<vector<int>> dp(n, vector<int>(n + 1, -1));
-        return f(0, -1, nums, dp);
-    }
-};
+    return dp[0][0];
+}};
