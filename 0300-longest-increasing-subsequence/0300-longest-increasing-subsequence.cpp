@@ -46,24 +46,45 @@
 
 
 
+// class Solution {
+// public:
+// int lengthOfLIS(vector<int>& nums) {
+//     int n = nums.size();
+//     vector<int> cur(n+1,0), next(n+1,0);
+
+//     for (int ind = n - 1; ind >= 0; ind--) {
+//         for (int prev = ind - 1; prev >= -1; prev--) {
+//             int notTake = next[prev+1];
+
+//             int take = 0;
+//             if (prev == -1 || nums[ind] > nums[prev])
+//                 take = 1 + next[ind+1];
+
+//                        cur[prev + 1] = max(take, notTake);
+//         }
+//         next = cur;
+//     }
+//     return next[-1+1];
+// }};
+
+
+
+
+// differant approach 
+
 class Solution {
 public:
 int lengthOfLIS(vector<int>& nums) {
     int n = nums.size();
-    vector<int> cur(n+1,0), next(n+1,0);
-
-    for (int ind = n - 1; ind >= 0; ind--) {
-        for (int prev = ind - 1; prev >= -1; prev--) {
-            int notTake = next[prev+1];
-
-            int take = 0;
-            if (prev == -1 || nums[ind] > nums[prev])
-                take = 1 + next[ind+1];
-
-                       cur[prev + 1] = max(take, notTake);
+    vector<int>dp(n,1);
+    int maxi = 1;
+    for(int ind = 0; ind <= n-1; ind++){
+        for(int prev = 0; prev <= ind-1; prev++){
+            if(nums[ind] > nums[prev]){
+                dp[ind] = max(1+dp[prev], dp[ind]);
+            }
         }
-        next = cur;
+        maxi = max(dp[ind], maxi);
     }
-    return next[-1+1];
+    return maxi;
 }};
-
