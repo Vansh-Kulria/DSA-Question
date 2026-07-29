@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0234-palindrome-linked-list) |
+| [0392-is-subsequence](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0876-middle-of-the-linked-list) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Vansh-Kulria/DSA-Question/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0151-reverse-words-in-a-string) |
 | [0273-integer-to-english-words](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0273-integer-to-english-words) |
+| [0392-is-subsequence](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0392-is-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0516-longest-palindromic-subsequence) |
 | [0520-detect-capital](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0520-detect-capital) |
 | [0583-delete-operation-for-two-strings](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0583-delete-operation-for-two-strings) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0322-coin-change) |
+| [0392-is-subsequence](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0509-fibonacci-number) |
