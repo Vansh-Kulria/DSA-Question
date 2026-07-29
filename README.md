@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0189-rotate-array](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0198-house-robber) |
+| [0209-minimum-size-subarray-sum](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0213-house-robber-ii) |
 | [0274-h-index](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0274-h-index) |
 | [0300-longest-increasing-subsequence](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0300-longest-increasing-subsequence) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0560-subarray-sum-equals-k) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Vansh-Kulria/DSA-Question/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Dynamic Programming
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0004-median-of-two-sorted-arrays) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0300-longest-increasing-subsequence) |
 ## Stack
 |  |
@@ -349,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0209-minimum-size-subarray-sum) |
 ## Combinatorics
 |  |
 | ------- |
