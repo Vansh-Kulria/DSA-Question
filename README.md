@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0031-next-permutation) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0148-sort-list) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0115-distinct-subsequences) |
+| [0125-valid-palindrome](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0151-reverse-words-in-a-string) |
 | [0273-integer-to-english-words](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0273-integer-to-english-words) |
 | [0516-longest-palindromic-subsequence](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0516-longest-palindromic-subsequence) |
