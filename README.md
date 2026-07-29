@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0169-majority-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0189-rotate-array](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0189-rotate-array) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0160-intersection-of-two-linked-lists) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0234-palindrome-linked-list) |
 | [0392-is-subsequence](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0392-is-subsequence) |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0004-median-of-two-sorted-arrays) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0300-longest-increasing-subsequence](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0300-longest-increasing-subsequence) |
 ## Stack
 |  |
