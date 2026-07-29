@@ -14,11 +14,13 @@ public:
 
             reverse(word.begin(), word.end());
             if (word.length() > 0) {
-
+                if (res.empty())
+                    res += word;
+                else
                     res += " " + word;
             }
         }
 
-        return res.substr(1);
+        return res;
     }
 };
