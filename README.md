@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0746-min-cost-climbing-stairs) |
+| [0931-minimum-falling-path-sum](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0931-minimum-falling-path-sum) |
 | [1048-longest-string-chain](https://github.com/Vansh-Kulria/DSA-Question/tree/master/1048-longest-string-chain) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Vansh-Kulria/DSA-Question/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Vansh-Kulria/DSA-Question/tree/master/1441-build-an-array-with-stack-operations) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0037-sudoku-solver) |
 | [0063-unique-paths-ii](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0064-minimum-path-sum) |
+| [0931-minimum-falling-path-sum](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0931-minimum-falling-path-sum) |
 ## Math
 |  |
 | ------- |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0746-min-cost-climbing-stairs) |
+| [0931-minimum-falling-path-sum](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0931-minimum-falling-path-sum) |
 | [1048-longest-string-chain](https://github.com/Vansh-Kulria/DSA-Question/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/Vansh-Kulria/DSA-Question/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Vansh-Kulria/DSA-Question/tree/master/1143-longest-common-subsequence) |
