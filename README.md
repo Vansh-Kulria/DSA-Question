@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0636-exclusive-time-of-functions](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0636-exclusive-time-of-functions) |
 | [0645-set-mismatch](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0645-set-mismatch) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0704-binary-search](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0704-binary-search) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0746-min-cost-climbing-stairs) |
 | [0931-minimum-falling-path-sum](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0931-minimum-falling-path-sum) |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0300-longest-increasing-subsequence) |
+| [0704-binary-search](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0704-binary-search) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Vansh-Kulria/DSA-Question/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Stack
 |  |
