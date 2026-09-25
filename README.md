@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0134-gas-station](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0134-gas-station) |
+| [0136-single-number](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0169-majority-element) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0268-missing-number) |
 | [0526-beautiful-arrangement](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0526-beautiful-arrangement) |
 | [0645-set-mismatch](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0645-set-mismatch) |
