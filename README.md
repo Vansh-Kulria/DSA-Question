@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/Vansh-Kulria/DSA-Question/tree/master/1048-longest-string-chain) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Vansh-Kulria/DSA-Question/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Vansh-Kulria/DSA-Question/tree/master/1441-build-an-array-with-stack-operations) |
+| [1463-cherry-pickup-ii](https://github.com/Vansh-Kulria/DSA-Question/tree/master/1463-cherry-pickup-ii) |
 | [1470-shuffle-the-array](https://github.com/Vansh-Kulria/DSA-Question/tree/master/1470-shuffle-the-array) |
 | [1655-distribute-repeating-integers](https://github.com/Vansh-Kulria/DSA-Question/tree/master/1655-distribute-repeating-integers) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Vansh-Kulria/DSA-Question/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0064-minimum-path-sum) |
 | [0931-minimum-falling-path-sum](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0931-minimum-falling-path-sum) |
+| [1463-cherry-pickup-ii](https://github.com/Vansh-Kulria/DSA-Question/tree/master/1463-cherry-pickup-ii) |
 ## Math
 |  |
 | ------- |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/Vansh-Kulria/DSA-Question/tree/master/1143-longest-common-subsequence) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/Vansh-Kulria/DSA-Question/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Vansh-Kulria/DSA-Question/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1463-cherry-pickup-ii](https://github.com/Vansh-Kulria/DSA-Question/tree/master/1463-cherry-pickup-ii) |
 | [1655-distribute-repeating-integers](https://github.com/Vansh-Kulria/DSA-Question/tree/master/1655-distribute-repeating-integers) |
 ## Bit Manipulation
 |  |
