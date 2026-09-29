@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0746-min-cost-climbing-stairs) |
 | [0931-minimum-falling-path-sum](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0931-minimum-falling-path-sum) |
 | [1048-longest-string-chain](https://github.com/Vansh-Kulria/DSA-Question/tree/master/1048-longest-string-chain) |
+| [1049-last-stone-weight-ii](https://github.com/Vansh-Kulria/DSA-Question/tree/master/1049-last-stone-weight-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Vansh-Kulria/DSA-Question/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Vansh-Kulria/DSA-Question/tree/master/1441-build-an-array-with-stack-operations) |
 | [1463-cherry-pickup-ii](https://github.com/Vansh-Kulria/DSA-Question/tree/master/1463-cherry-pickup-ii) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0746-min-cost-climbing-stairs) |
 | [0931-minimum-falling-path-sum](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0931-minimum-falling-path-sum) |
 | [1048-longest-string-chain](https://github.com/Vansh-Kulria/DSA-Question/tree/master/1048-longest-string-chain) |
+| [1049-last-stone-weight-ii](https://github.com/Vansh-Kulria/DSA-Question/tree/master/1049-last-stone-weight-ii) |
 | [1092-shortest-common-supersequence](https://github.com/Vansh-Kulria/DSA-Question/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Vansh-Kulria/DSA-Question/tree/master/1143-longest-common-subsequence) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/Vansh-Kulria/DSA-Question/tree/master/1155-number-of-dice-rolls-with-target-sum) |
@@ -459,4 +461,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0020-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Vansh-Kulria/DSA-Question/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Knapsack Problem
+|  |
+| ------- |
+| [1049-last-stone-weight-ii](https://github.com/Vansh-Kulria/DSA-Question/tree/master/1049-last-stone-weight-ii) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [1049-last-stone-weight-ii](https://github.com/Vansh-Kulria/DSA-Question/tree/master/1049-last-stone-weight-ii) |
 <!---LeetCode Topics End-->
