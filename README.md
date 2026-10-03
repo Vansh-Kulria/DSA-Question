@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0134-gas-station) |
 | [0680-valid-palindrome-ii](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0680-valid-palindrome-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/Vansh-Kulria/DSA-Question/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 ## String
 |  |
 | ------- |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Vansh-Kulria/DSA-Question/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Vansh-Kulria/DSA-Question/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Vansh-Kulria/DSA-Question/tree/master/1796-second-largest-digit-in-a-string) |
+| [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/Vansh-Kulria/DSA-Question/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Vansh-Kulria/DSA-Question/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## Trie
 |  |
@@ -385,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Vansh-Kulria/DSA-Question/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Vansh-Kulria/DSA-Question/tree/master/1441-build-an-array-with-stack-operations) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Vansh-Kulria/DSA-Question/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/Vansh-Kulria/DSA-Question/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 ## Counting Sort
 |  |
 | ------- |
@@ -468,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Vansh-Kulria/DSA-Question/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Vansh-Kulria/DSA-Question/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/Vansh-Kulria/DSA-Question/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 ## Knapsack Problem
 |  |
 | ------- |
