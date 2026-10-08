@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0583-delete-operation-for-two-strings) |
 | [0680-valid-palindrome-ii](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0680-valid-palindrome-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/Vansh-Kulria/DSA-Question/tree/master/1021-remove-outermost-parentheses) |
 | [1048-longest-string-chain](https://github.com/Vansh-Kulria/DSA-Question/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/Vansh-Kulria/DSA-Question/tree/master/1092-shortest-common-supersequence) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Vansh-Kulria/DSA-Question/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -390,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0234-palindrome-linked-list) |
 | [0636-exclusive-time-of-functions](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0636-exclusive-time-of-functions) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/Vansh-Kulria/DSA-Question/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Vansh-Kulria/DSA-Question/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Vansh-Kulria/DSA-Question/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Vansh-Kulria/DSA-Question/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -479,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0032-longest-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/Vansh-Kulria/DSA-Question/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Vansh-Kulria/DSA-Question/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Vansh-Kulria/DSA-Question/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Vansh-Kulria/DSA-Question/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
