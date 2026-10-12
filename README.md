@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1655-distribute-repeating-integers](https://github.com/Vansh-Kulria/DSA-Question/tree/master/1655-distribute-repeating-integers) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Vansh-Kulria/DSA-Question/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1929-concatenation-of-array](https://github.com/Vansh-Kulria/DSA-Question/tree/master/1929-concatenation-of-array) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Vansh-Kulria/DSA-Question/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Vansh-Kulria/DSA-Question/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Vansh-Kulria/DSA-Question/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Vansh-Kulria/DSA-Question/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/Vansh-Kulria/DSA-Question/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Vansh-Kulria/DSA-Question/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## String
 |  |
 | ------- |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1655-distribute-repeating-integers](https://github.com/Vansh-Kulria/DSA-Question/tree/master/1655-distribute-repeating-integers) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Vansh-Kulria/DSA-Question/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Vansh-Kulria/DSA-Question/tree/master/1796-second-largest-digit-in-a-string) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Vansh-Kulria/DSA-Question/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Vansh-Kulria/DSA-Question/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Vansh-Kulria/DSA-Question/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Matrix
@@ -337,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0526-beautiful-arrangement](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0526-beautiful-arrangement) |
 | [0645-set-mismatch](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0645-set-mismatch) |
 | [1655-distribute-repeating-integers](https://github.com/Vansh-Kulria/DSA-Question/tree/master/1655-distribute-repeating-integers) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Vansh-Kulria/DSA-Question/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Bitmask
 |  |
 | ------- |
