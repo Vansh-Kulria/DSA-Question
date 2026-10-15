@@ -4,10 +4,14 @@ public:
         int n = nums.size();
         int total = 0;
         for (int i = 0; i < n; i++) {
-            unordered_set<int> seen;
+            bool seen[101] = {false};
+            int distinct = 0;
             for (int j = i; j < n; j++) {
-                seen.insert(nums[j]);
-                total += seen.size() * seen.size();
+                if (!seen[nums[j]]) {
+                    seen[nums[j]] = true;
+                    distinct++;
+                }
+                total += distinct * distinct;
             }
         }
         return total;
