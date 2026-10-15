@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0064-minimum-path-sum) |
+| [0066-plus-one](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0088-merge-sorted-array) |
 | [0120-triangle](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0120-triangle) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0189-rotate-array) |
