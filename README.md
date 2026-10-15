@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Vansh-Kulria/DSA-Question/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1929-concatenation-of-array](https://github.com/Vansh-Kulria/DSA-Question/tree/master/1929-concatenation-of-array) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Vansh-Kulria/DSA-Question/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Vansh-Kulria/DSA-Question/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Vansh-Kulria/DSA-Question/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Vansh-Kulria/DSA-Question/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Vansh-Kulria/DSA-Question/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Vansh-Kulria/DSA-Question/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Vansh-Kulria/DSA-Question/tree/master/1796-second-largest-digit-in-a-string) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Vansh-Kulria/DSA-Question/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Vansh-Kulria/DSA-Question/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Vansh-Kulria/DSA-Question/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Vansh-Kulria/DSA-Question/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Matrix
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Vansh-Kulria/DSA-Question/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Vansh-Kulria/DSA-Question/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Merge Sort
 |  |
@@ -452,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Vansh-Kulria/DSA-Question/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
