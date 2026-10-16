@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0128-longest-consecutive-sequence](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0142-linked-list-cycle-ii) |
@@ -518,4 +520,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0069-sqrtx) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
