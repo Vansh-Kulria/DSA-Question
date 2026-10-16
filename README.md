@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0125-valid-palindrome) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0268-missing-number) |
 | [0526-beautiful-arrangement](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0526-beautiful-arrangement) |
@@ -417,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0067-add-binary) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Vansh-Kulria/DSA-Question/tree/master/1441-build-an-array-with-stack-operations) |
 | [1929-concatenation-of-array](https://github.com/Vansh-Kulria/DSA-Question/tree/master/1929-concatenation-of-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Vansh-Kulria/DSA-Question/tree/master/3867-sum-of-gcd-of-formed-pairs) |
