@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Vansh-Kulria/DSA-Question/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Vansh-Kulria/DSA-Question/tree/master/1796-second-largest-digit-in-a-string) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/Vansh-Kulria/DSA-Question/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
+| [2409-count-days-spent-together](https://github.com/Vansh-Kulria/DSA-Question/tree/master/2409-count-days-spent-together) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Vansh-Kulria/DSA-Question/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## Trie
 |  |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0273-integer-to-english-words) |
 | [0368-largest-divisible-subset](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0368-largest-divisible-subset) |
 | [0509-fibonacci-number](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0509-fibonacci-number) |
+| [2409-count-days-spent-together](https://github.com/Vansh-Kulria/DSA-Question/tree/master/2409-count-days-spent-together) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Vansh-Kulria/DSA-Question/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Vansh-Kulria/DSA-Question/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Divide and Conquer
