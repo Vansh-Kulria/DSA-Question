@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Vansh-Kulria/DSA-Question/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Vansh-Kulria/DSA-Question/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Vansh-Kulria/DSA-Question/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Vansh-Kulria/DSA-Question/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Vansh-Kulria/DSA-Question/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Vansh-Kulria/DSA-Question/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3975-filter-occupied-intervals](https://github.com/Vansh-Kulria/DSA-Question/tree/master/3975-filter-occupied-intervals) |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0645-set-mismatch) |
 | [1655-distribute-repeating-integers](https://github.com/Vansh-Kulria/DSA-Question/tree/master/1655-distribute-repeating-integers) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Vansh-Kulria/DSA-Question/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Vansh-Kulria/DSA-Question/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Bitmask
 |  |
 | ------- |
