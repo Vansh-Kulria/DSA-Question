@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/Vansh-Kulria/DSA-Question/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2409-count-days-spent-together](https://github.com/Vansh-Kulria/DSA-Question/tree/master/2409-count-days-spent-together) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Vansh-Kulria/DSA-Question/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/Vansh-Kulria/DSA-Question/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Trie
 |  |
 | ------- |
