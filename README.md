@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Vansh-Kulria/DSA-Question/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Vansh-Kulria/DSA-Question/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Vansh-Kulria/DSA-Question/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Vansh-Kulria/DSA-Question/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Vansh-Kulria/DSA-Question/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Vansh-Kulria/DSA-Question/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Vansh-Kulria/DSA-Question/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0064-minimum-path-sum) |
 | [0931-minimum-falling-path-sum](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0931-minimum-falling-path-sum) |
 | [1463-cherry-pickup-ii](https://github.com/Vansh-Kulria/DSA-Question/tree/master/1463-cherry-pickup-ii) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Vansh-Kulria/DSA-Question/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Math
 |  |
 | ------- |
@@ -439,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Vansh-Kulria/DSA-Question/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -466,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0322-coin-change) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Vansh-Kulria/DSA-Question/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## String Matching
 |  |
 | ------- |
@@ -529,4 +533,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Vansh-Kulria/DSA-Question/tree/master/0128-longest-consecutive-sequence) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Vansh-Kulria/DSA-Question/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 <!---LeetCode Topics End-->
